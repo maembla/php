@@ -18,5 +18,6 @@
 			</SCRIPT>
 		</aside>
 		<footer style="border:1px solid #000000;">Pie de p&aacute;gina</footer>
+	jueves 21
 	</body>
 </html>
